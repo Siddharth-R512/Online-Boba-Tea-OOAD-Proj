@@ -1,2 +1,2 @@
 # Online-Boba-Tea-OOAD-Proj
-Creating online drrink system with 2 approaches: full stack development for web based accesibility and java swing MVC architecture for desktop application fucntionality.
+Creating online drink system with 2 approaches: full stack development for web based accesibility and Java Swing MVC architecture for desktop application functionality.
